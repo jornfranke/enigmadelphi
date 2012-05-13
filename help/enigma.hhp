@@ -1,0 +1,13 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\enigma.chm
+Contents file=Table of Contents.hhc
+Default topic=aboutenigma.htm
+Display compile progress=Yes
+Index file=Index.hhk
+Language=0x407 Deutsch (Deutschland)
+Title=Enigma Hilfe
+
+
+[INFOTYPES]
+

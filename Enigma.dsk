@@ -1,0 +1,165 @@
+[Closed Files]
+File_0=SourceModule,'C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\Enigma\aboutunit.pas',0,1,32,9,34,0,0
+File_1=SourceModule,'C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delp\Sample\HANOI\hanoi_unit.pas',0,1,69,1,84,0,0
+File_2=SourceModule,'C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\sort\Unit1.pas',0,1,366,13,381,0,0
+File_3=SourceModule,'C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delp\sortarray\Unit1.pas',0,1,259,1,274,1,1
+File_4=SourceModule,'C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\sort2\mainunit.pas',0,1,173,1,185,0,1
+File_5=SourceModule,'C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\test\Sortieralgorithmen\Sort.pas',0,1,394,1,402,0,0
+File_6=SourceModule,'C:\Programme\Borland\Delphi5\Demos\Threads\ThSort.pas',0,1,97,10,109,1,0
+File_7=SourceModule,'C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delp\sortarray\Unit2.pas',0,1,12,9,29,0,1
+
+[Modules]
+Module0=C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\Enigma\mainunit.pas
+Module1=C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\Enigma\enigmaunit.pas
+Count=2
+EditWindowCount=1
+
+[C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\Enigma\mainunit.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=1
+
+[C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\Enigma\enigmaunit.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Programme\Borland\Delphi5\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\Enigma\Enigma.dpr]
+FormState=0
+FormOnTop=0
+SymbolFile=C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\Enigma\Enigma.dsm
+ModSinceCompile=1
+
+[EditWindow0]
+ViewCount=2
+CurrentView=0
+View0=0
+View1=1
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=181
+Top=267
+Width=696
+Height=561
+MaxLeft=-4
+MaxTop=108
+ClientWidth=688
+ClientHeight=527
+LeftPanelSize=0
+RightPanelSize=0
+BottomPanelSize=0
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=00000400010000000B0000004D657373616765566965770000000000000000000000000000000000FFFFFFFF
+
+[View0]
+Module=C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\Enigma\mainunit.pas
+CursorX=68
+CursorY=689
+TopLine=602
+LeftCol=1
+
+[View1]
+Module=C:\Dokumente und Einstellungen\Thriller\Eigene Dateien\Delphi Source\Info\Enigma\enigmaunit.pas
+CursorX=11
+CursorY=191
+TopLine=177
+LeftCol=1
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=1024
+Height=112
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1016
+ClientHeight=78
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=305
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=305
+LRDockWidth=438
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=114
+Width=156
+Height=84
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=114
+Width=182
+Height=494
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=172
+ClientHeight=466
+TBDockHeight=494
+LRDockWidth=190
+Dockable=1
+SplitPos=105
+ArrangeBy=Name
+SelectedItem=Name
+ExpandedItems=
+HiddenCategories=Legacy
+ShowStatusBar=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=12
+Top=0
+Width=676
+Height=52
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=676
+ClientHeight=52
+TBDockHeight=52
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
